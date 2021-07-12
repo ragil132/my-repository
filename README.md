@@ -1,0 +1,2 @@
+# my-repository
+Studying Git
